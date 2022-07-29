@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>AWS TEST PROJECT</h1>
+    <h1>HELLO THERE !</h1>
   </div>
 </template>
 
